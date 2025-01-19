@@ -1,3 +1,4 @@
+![logo](https://github.com/yogesh-webDevMern/yogesh-webDevMern/blob/main/images/cover.jpg)
 <h1 align="center">Hi 👋, I'm Yogesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="250px" src="./images/img.jpg">
